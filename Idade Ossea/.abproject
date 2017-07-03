@@ -2,12 +2,12 @@
   "ProjectName": "Idade Ossea",
   "ProjectGuid": "9251c13e-d816-4936-9b2c-262b6b74aaf0",
   "projectVersion": 1,
-  "AppIdentifier": "com.mesmera.idadeossea",
-  "DisplayName": "Idade Ossea",
+  "AppIdentifier": "com.mesmera.boneagelite",
+  "DisplayName": "Bone Age Lite",
   "Author": "Mesmera Comunicação Interativa e Digital",
-  "Description": "Idade Ossea",
-  "BundleVersion": "3.2",
-  "AndroidVersionCode": "12",
+  "Description": "Bone Age Lite",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
     "2"
