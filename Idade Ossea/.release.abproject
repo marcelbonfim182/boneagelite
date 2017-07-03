@@ -1,0 +1,12 @@
+{
+  "CorePlugins": [
+    "com.telerik.plugins.nativepagetransitions@0.6.5",
+    "cordova-plugin-device",
+    "cordova-plugin-device-motion",
+    "cordova-plugin-device-orientation",
+    "cordova-plugin-inappbrowser",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar",
+    "cordova-plugin-vibration"
+  ]
+}
