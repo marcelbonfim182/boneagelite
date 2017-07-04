@@ -6,8 +6,8 @@
   "DisplayName": "Bone Age Lite",
   "Author": "Mesmera Comunicação Interativa e Digital",
   "Description": "Bone Age Lite",
-  "BundleVersion": "1.0",
-  "AndroidVersionCode": "1",
+  "BundleVersion": "1.1",
+  "AndroidVersionCode": "2",
   "iOSDeviceFamily": [
     "1",
     "2"
